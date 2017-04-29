@@ -1,10 +1,8 @@
 ## 博客静态资源前端
 
-请配合以下两个项目之一使用
+请配合以下项目使用
 
-1. [pure-node-notebook](https://github.com/slashhuang/pure-node-notebook)
-
-2. [pure-node-notebook](https://github.com/slashhuang/pure-node-notebook)
+1. [pure-node-note-book](https://github.com/PeterCheng1/pure-node-note-book)
 
 ## 安装依赖
 
